@@ -8,6 +8,7 @@
 - :computer: **Company:** Full Stack Engineer at @GrupoGFT
 - :space_invader: **Technologies:** Java 8, Kotlin, Spring, Javascript, Typescript, Angular, Postgres, Sql Server, MongoDB, REST & SOAP.
 - :mortar_board: **College:** Graduated from Faculdade Bandtec (Systems analysis and Development).
+- :mortar_board: **College:** MBA - FullStack Development and Engineering at FIAP.
 
 ---
 
